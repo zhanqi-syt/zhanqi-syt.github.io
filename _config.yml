@@ -12,7 +12,7 @@ title                    : "Yutai Su / Personal Page"
 title_separator          : "-"
 name                     : &name "Yutai Su"
 description              : &description "personal description"
-url                      : "https://zhanqi-syt.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhanqi-syt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhanqi-syt/zhanqi-syt.github.io"
 
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Dr. Yutai Su"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor in Mechanics"
+  bio              : "Associate Professor in Engineering Mechanics"
   location         : "Xi'an Shaanxi"
   employer         : "Northwestern Polytechnical University"
   uri              : # URL
@@ -35,14 +35,14 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=3gON5hgAAAAJ"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : #"academicpages"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
