@@ -25,7 +25,7 @@ author:
   name             : "Dr. Yutai Su"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor in Engineering Mechanics"
-  location         : "Xi'an Shaanxi"
+  location         : "Xi'an Shaanxi, China"
   employer         : "Northwestern Polytechnical University"
   uri              : # URL
   email            : "suyutai@nwpu.edu.cn" 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=3gON5hgAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0001-7756-2560"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
 
@@ -42,7 +42,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : #"academicpages"
+  github           : #"https://github.com/zhanqi-syt"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
