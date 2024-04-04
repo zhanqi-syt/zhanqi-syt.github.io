@@ -5,7 +5,7 @@ permalink: /publication/2021-05-01-thermo-elasto-plastic-phase-field-model
 excerpt: '热弹塑性断裂相场与随机孔隙结构完美结合，计算烧结银热力断裂过程与芯片粘接可靠性的基础工作。'
 date: 2021-05-01
 venue: 'Computer Methods in Applied Mechanics and Engineering'
-paperurl: 'http://academicpages.github.io/files/Su et al_2021_Thermo-elasto-plastic phase-field modelling of mechanical behaviours of.pdf'
+paperurl: 'http://academicpages.github.io/files/Su&nbsp;et&nbsp;al_2021_Thermo-elasto-plastic&nbsp;phase-field&nbsp;modelling&nbsp;of mechanical&nbsp;behaviours&nbsp;of.pdf'
 citation: 'Su Y, Fu G, Liu C, Zhang K, Zhao L, Liu C, Liu A, Song J. (2021). &quot;Thermo-elasto-plastic phase-field modelling of mechanical behaviours of sintered nano-silver with randomly distributed micro-pores.&quot; <i>Computer Methods in Applied Mechanics and Engineering</i>. 378: 113729.'
 ---
 
